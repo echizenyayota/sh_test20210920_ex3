@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@shopify/post-purchase-ui-extensions": "0.10.1",
-    "@shopify/post-purchase-ui-extensions-react": "0.10.1",
+    "@shopify/post-purchase-ui-extensions-react": "^0.13.0",
     "react": "^17.0.0"
   }
 }
