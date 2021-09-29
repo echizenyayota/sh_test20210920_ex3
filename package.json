@@ -21,7 +21,7 @@
   },
   "scripts": {
     "build": "checkout-ui-extensions-run build",
-    "server": "yarn start",
+    "server": "checkout-ui-extensions-run serve",
     "start": "checkout-ui-extensions-run serve",
     "lint": "eslint 'src/**'",
     "type-check": "tsc --pretty"
